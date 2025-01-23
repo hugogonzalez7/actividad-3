@@ -1,0 +1,40 @@
+body{
+    /*background-color: rgb(238, 4, 4);*/
+    background-image: url(imagenes/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    background-color: rgb(24, 145, 145);
+    text-align: center;
+    border: 5px solid blue;
+    padding: 10px;
+}
+
+h2{
+    color: rgb(175, 175, 147);
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+
+}
+
+li{
+    border: 5px solid orangered;
+    background-color: white;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+
+a{
+    color: orangered;
+    font-weight: bold;
+}
